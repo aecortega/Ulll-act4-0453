@@ -19,5 +19,4 @@ samples, guidance on mobile development, and a full API reference.
 - Join the discussion and conversation on https://flutlab.io/residents
 
 ## Resultados
-![image](https://github.com/aecortega/Ulll-act4-0453/assets/143548446/49715186-465f-47a3-ab09-c4a17608c479)
-![image](https://github.com/aecortega/Ulll-act4-0453/assets/143548446/646fefae-1b9f-4bcc-bc14-db4d69ae6bae)
+![image](https://github.com/aecortega/Ulll-act4-0453/assets/143548446/49715186-465f-47a3-ab09-c4a17608c479) ![image](https://github.com/aecortega/Ulll-act4-0453/assets/143548446/646fefae-1b9f-4bcc-bc14-db4d69ae6bae)
